@@ -1,0 +1,14 @@
+If you submit contributions to this project and do not transfer the copyright
+to Open Cosmos Ltd, then you must license your contributions to Open Cosmos
+Ltd. under the Expat (MIT) license.
+
+I (Mark Cowan) intend to change the project license from GPL2 to MIT once the
+project is more mature and has an active community around it.
+
+I use GPL2 for the project's embryonic stage because I want people to
+contribute work back to it, and I'll switch to MIT when it's active and mature
+enough because I also want people to actually use it for cool stuff.
+
+The reason I require contributions to be provided under the MIT license rather
+than GPL2 is so that I can re-license to MIT in future without having to
+individually get permission from every contributor.

@@ -1,0 +1,6 @@
+[submodule "c_modules/cstd"]
+	path = c_modules/cstd
+	url = git@github.com:opencosmos/cstd
+[submodule "c_modules/cstruct"]
+	path = c_modules/cstruct
+	url = git@github.com:opencosmos/cstruct
